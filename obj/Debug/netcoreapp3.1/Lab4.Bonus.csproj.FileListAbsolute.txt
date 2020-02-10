@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\obj\Debug\netcoreapp3.1\Lab4.Bonus.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\obj\Debug\netcoreapp3.1\Lab4.Bonus.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\obj\Debug\netcoreapp3.1\Lab4.Bonus.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\bin\Debug\netcoreapp3.1\Lab4.Bonus.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\bin\Debug\netcoreapp3.1\Lab4.Bonus.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\bin\Debug\netcoreapp3.1\Lab4.Bonus.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\bin\Debug\netcoreapp3.1\Lab4.Bonus.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\bin\Debug\netcoreapp3.1\Lab4.Bonus.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\bin\Debug\netcoreapp3.1\Lab4.Bonus.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\obj\Debug\netcoreapp3.1\Lab4.Bonus.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.Bonus\obj\Debug\netcoreapp3.1\Lab4.Bonus.pdb
